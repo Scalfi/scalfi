@@ -1,11 +1,16 @@
 
-Hi there, I'm Gabriel Scalfi. Welcome.
-- 🔭 I’m currently working on Back-End .NET ...
-- 🌱 I'm currently learning about architecture software...
+ ## 
+   Hi there, I'm Gabriel Scalfi. Welcome.
+  - 🔭 I’m currently working on Back-End .NET ...
+  - 🌱 I'm currently learning about architecture software...
 
-  [![scalfi's github stats](https://github-readme-stats.vercel.app/api?username=scalfi&show_icons=true&theme=dark)](https://github.com/scalfi/)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scalfi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+    <a href="https://github.com/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scalfi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scalfi&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
   
+ ##
 
 
