@@ -2,7 +2,7 @@
 
 <!--
 **Scalfi/scalfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![scalfi's github stats](https://github-readme-stats.vercel.app/api?username=scalfi&show_icons=true&theme=dark)](https://github.com/scalfi/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
